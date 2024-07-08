@@ -2,6 +2,8 @@
 
 This project uses YOLO for ball detection and a pre-trained CNN model for digit recognition to track balls in a video and identify their movements between quadrants. Events such as ball entry and exit from quadrants are logged and saved.
 
+Note: The processed video is not available here because upload limit by github you can access video [here](https://drive.google.com/drive/folders/1NKe6PAmLL2pnTDcZtgiYBZqghgCKMQpF?usp=sharing). 
+
 ## Table of Contents
 
 - [Requirements](#requirements)
